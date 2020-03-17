@@ -1,0 +1,21 @@
+Cadastrar usuário
+Cadastrar media (foto, vídeo, áudio, texto, arquivo)
+Consultar usuário pelo nome completo
+Consultar usuário pelo identificador
+Consultar media pelo nome
+Consultar media pelo identificador
+Remover usuário
+Remover media
+Alterar os dados do usuário
+Alterar os dados da media
+
+
+Usuário: nome completo, nome de usuário,
+ email, telefone, sexo, data de nascimento, idade.
+ 
+Media: tipo, nome, descrição, latitude, longitude,
+ data de criação, data de upload, data da publicação.
+
+Foto:
+Máximo de 8 MB
+Formatos: JPEG, PNG, BMP, e GIFs não animados.
